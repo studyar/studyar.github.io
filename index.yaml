@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-chart-common:
+  - apiVersion: v1
+    appVersion: 0.0.1
+    created: "2020-02-24T19:36:16.132419468Z"
+    description: A Helm chart for managing common templates
+    digest: 890d18cc99b6a618a3789572f793ba62409dc870a44124b829a386527d9d58c9
+    name: helm-chart-common
+    type: application
+    urls:
+    - https://studyar.github.io/helm-chart-common-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-02-24T19:36:16.132009786Z"
